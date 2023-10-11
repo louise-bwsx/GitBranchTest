@@ -1,2 +1,4 @@
 Windows中文測試
 Ｍac顯示正常
+
+Windows同時間 同Branch修改Text
