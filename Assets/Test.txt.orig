@@ -1,7 +1,8 @@
 Windows中文測試
 Ｍac顯示正常
 
-Mac同時間 同branch修改Text
+<<<<<<< HEAD
 Windows同時間 同Branch修改Text
-
-Windows使用YamlMerge手動解Conflict
+=======
+Mac同時間 同branch修改Text
+>>>>>>> origin/main
