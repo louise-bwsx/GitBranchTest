@@ -15,7 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 43
+    y: 53
     width: 1920
     height: 997
   m_ShowMode: 4
@@ -380,7 +380,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 871
-    y: 795
+    y: 805
     width: 1048
     height: 204
   m_ViewDataDictionary: {fileID: 0}
@@ -408,7 +408,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 73
+    y: 83
     width: 870
     height: 509
   m_ViewDataDictionary: {fileID: 0}
@@ -4537,7 +4537,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 603
+    y: 613
     width: 870
     height: 396
   m_ViewDataDictionary: {fileID: 0}
@@ -5220,7 +5220,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 871
-    y: 73
+    y: 83
     width: 484
     height: 701
   m_ViewDataDictionary: {fileID: 0}
@@ -5247,7 +5247,7 @@ MonoBehaviour:
   m_StartGridSize: 51
   m_LastFolders: []
   m_LastFoldersGridSize: 51
-  m_LastProjectPath: D:\Users\louis\Desktop\SourceControl\GitBranchTest
+  m_LastProjectPath: /Users/wangshihchieh/Desktop/SourceControl/GitBranchTest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -5359,7 +5359,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1357
-    y: 73
+    y: 83
     width: 274
     height: 701
   m_ViewDataDictionary: {fileID: 0}
@@ -5416,7 +5416,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1633
-    y: 73
+    y: 83
     width: 286
     height: 701
   m_ViewDataDictionary: {fileID: 0}

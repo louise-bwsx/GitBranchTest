@@ -5,3 +5,6 @@ Mac同時間 同branch修改Text
 Windows同時間 同Branch修改Text
 
 Windows使用YamlMerge手動解Conflict
+
+Mac測試PullRequest 
+WindowsPC 在GitDesktop 使用VSCode來解除Text的Conflict
